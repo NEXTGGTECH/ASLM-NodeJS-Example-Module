@@ -1,0 +1,12 @@
+{
+    "name": "aslm-nodejs-example",
+    "version": "1.0.0",
+    "description": "Reference ASLM Node.js module: Express WebView UI, typed settings, downloads bridge (stdio JSON), host theme/locale snapshots, module interop HTTP client.",
+    "main": "main.js",
+    "dependencies": {
+        "express": "^5.0.0"
+    },
+    "engines": {
+        "node": ">=20.0.0"
+    }
+}
